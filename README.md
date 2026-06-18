@@ -74,7 +74,9 @@ D:\ai-workspace\ai_workspace.bat
 
 如果你覺得這個工具有幫助，可以請我喝杯咖啡：
 
-**PayPal:** https://www.paypal.me/kin162180
+**PayPal QR Code:** 掃描下方 QR Code 贊助
+
+![贊助 QR Code](qrcode.png)
 
 或者直接在 GitHub 點 ⭐ 也是支持！
 
